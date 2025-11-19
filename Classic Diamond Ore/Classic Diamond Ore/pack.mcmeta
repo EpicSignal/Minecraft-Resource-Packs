@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 70,
+    "supported_formats": [5, 900],
+    "min_format": 5,
+    "max_format": 900,
+    "description": "Repaints diamond ore with a taste of nostalgia"
+  }
+}
