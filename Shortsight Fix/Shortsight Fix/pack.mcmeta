@@ -1,0 +1,9 @@
+﻿{
+  "pack": {
+    "pack_format": 70,
+    "supported_formats": [48, 900],
+    "min_format": 48,
+    "max_format": 900,
+    "description": "EpicSignal approved!"
+  }
+}
